@@ -4,11 +4,9 @@ Mix-up for Cifar10
 ### wandb에서 확인하기
 
 
-<img src="https://user-images.githubusercontent.com/78070515/179352383-0c60721f-365f-4ca9-9139-b79059b5bd9c.png" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/78070515/179352383-0c60721f-365f-4ca9-9139-b79059b5bd9c.png" width="400" height="400"/> <img src="https://user-images.githubusercontent.com/78070515/179352386-616f8d8d-0ae2-496a-9c70-dc7bac01f9cc.png" width="200" height="400"/>
 
-<img src="https://user-images.githubusercontent.com/78070515/179352386-616f8d8d-0ae2-496a-9c70-dc7bac01f9cc.png" width="200" height="400"/>
-
-### 논문에서처럼 alpha값이 0.2일 때 좋은 성능을 보였다.
+#### => 논문에서처럼 alpha값이 0.2일 때 좋은 성능을 보였다.
 
 # Train CIFAR10 with PyTorch
 
