@@ -1,6 +1,12 @@
 # cifar_mixup
 Mix-up for Cifar10
 
+###wandb에서 확인하기
+![화면 캡처 2022-07-16 200750](https://user-images.githubusercontent.com/78070515/179352383-0c60721f-365f-4ca9-9139-b79059b5bd9c.png)
+![화면 캡처 2022-07-16 200658](https://user-images.githubusercontent.com/78070515/179352386-616f8d8d-0ae2-496a-9c70-dc7bac01f9cc.png)
+
+###논문에서처럼 alpha값이 0.2일 때 좋은 성능을 보였다.
+
 # Train CIFAR10 with PyTorch
 
 I'm playing with [PyTorch](http://pytorch.org/) on the CIFAR10 dataset.
